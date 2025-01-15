@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polaris</string>
+    <string name="hint_username">Username (use: supplier123)</string>
+    <string name="hint_password">Password (use: password123)</string>
+    <string name="button_login">Login</string>
+    <string name="button_logout">Logout</string>
+    <string name="toast_login_success">Login successful</string>
+    <string name="toast_login_failed">Invalid credentials. Use: supplier/password123</string>
+    <string name="toast_logout_success">Logged out successfully</string>
+
+    <!-- Navigation strings -->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
