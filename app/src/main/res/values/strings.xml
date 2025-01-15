@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Polaris</string>
-    <string name="hint_username">Username (use: supplier123)</string>
-    <string name="hint_password">Password (use: password123)</string>
+    <string name="hint_username">Username (use: supplier)</string>
+    <string name="hint_password">Password (use: supplier123)</string>
     <string name="button_login">Login</string>
     <string name="button_logout">Logout</string>
     <string name="toast_login_success">Login successful</string>
-    <string name="toast_login_failed">Invalid credentials. Use: supplier/password123</string>
+    <string name="toast_login_failed">Invalid credentials. Use: supplier/supplier123</string>
     <string name="toast_logout_success">Logged out successfully</string>
 
     <!-- Navigation strings -->
